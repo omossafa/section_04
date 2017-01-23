@@ -1,1 +1,15 @@
-# section_04
+# section_04 Battle Tank
+
+This is a game where a player battles another or basic AI code in warfare using advanced control systems in Unreal 4, with coding done in Xcode8.
+
+Part of the Complete Unreal Creator course on Udemy, see [here](https://www.udemy.com/unrealcourse?couponCode=GitHubDiscount) for a special GitHub offer. The full course is part of [this](https://www.kickstarter.com/projects/bentristem/learn-to-make-video-games-unreal-developer-course) Kickstarter campaign which was over 1000% funded.
+
+These are just the files from the course, not the actual tutorial videos. This course is exclusively hosted on Udemy.com, and has many hours of high-quality videos.
+
+You're welcome to download, fork or do whatever else legal with all the files!
+
+---
+Click [here](https://www.udemy.com/unrealcourse?couponCode=GitHubDiscount) to find out more about the course, and how we build these assets step-by-step.
+
+## Lecture List
+* BT01 Intro, Notes & Assets, Game Design Document (GDD), Setting Up a GitHub “Repo”
