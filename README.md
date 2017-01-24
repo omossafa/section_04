@@ -13,3 +13,4 @@ Click [here](https://www.udemy.com/unrealcourse?couponCode=GitHubDiscount) to fi
 
 ## Lecture List
 * BT01 Intro, Notes & Assets, Game Design Document (GDD), Setting Up a GitHub “Repo”
+* BT02 Creating & Deleting new landscape environment.
